@@ -47,8 +47,8 @@
 <!--     <a href=''>
       <img src='https://img.shields.io/badge/Youtube-Video-red?style=flat&logo=youtube&logoColor=red' alt='Youtube Video'>
     </a> -->
-    <a href=''>
-      <img src='https://img.shields.io/badge/Project-Page-blue?style=flat&logo=githubpages&logoColor=white' alt='Youtube Video'>
+    <a href='https://rongakowang.github.io/fresa/fresa.html'>
+      <img src='https://img.shields.io/badge/Project-Page-blue?style=flat&logo=githubpages&logoColor=white' alt='Project Page'>
     </a>
       
   </p>
