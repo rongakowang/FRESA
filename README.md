@@ -8,7 +8,7 @@
     <img src="assets/main.png"" alt="Overview" width="75%">
   </p>
   <p align="center">
-    <strong>CVPR, 2025</strong>
+    <strong>CVPR, 2025 Highlight</strong>
     <br />
     <a href="https://github.com/rongakowang"><strong>Rong Wang </strong></a>
     .
